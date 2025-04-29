@@ -62,4 +62,3 @@ Este proyecto es totalmente funcional y puede ampliarse fácilmente para integra
 
 
 Desarrollado por el equipo del Subgrupo 10. Repositorio principal:  
-https://github.com/lucasandres1981/100WaysOfCooking
